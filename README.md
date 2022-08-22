@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello there! I'm a frontend developer.
+
+
+I’m currently learning Data Science and mainly coding on Python :rocket:
+
 
 <!--
 **disimhot/disimhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
