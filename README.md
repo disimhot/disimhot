@@ -1,5 +1,5 @@
 <div align="center">
-### Hey there! 👋 I'm Lena
+###Hey there! 👋 I'm Lena
 
 ### 🧠 Data Scientist | NLP Specialist
 
@@ -16,17 +16,6 @@
 ## 🚀 About Me
 
 I'm a **Data Scientist** specializing in **Natural Language Processing**. I love building models that understand and generate human language — from sentiment analysis to transformers and everything in between.
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "NLP Data Scientist"
-        self.languages = ["Python", "JavaScript"]
-        self.passion = "Making machines understand human language"
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +36,6 @@ class DataScientist:
 - 🔤 **Text Classification** — Sentiment, intent, topic modeling
 - 🤖 **Language Models** — Fine-tuning transformers for domain-specific tasks
 - 📝 **Information Extraction** — NER, relation extraction, summarization
-- 💬 **Conversational AI** — Chatbots and dialogue systems
 
 ---
 
@@ -73,16 +61,6 @@ class DataScientist:
 
 <div align="center">
 
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-*"The goal is to turn data into information, and information into insight."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ees.elena@gmail.com)
 
 </div>
