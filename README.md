@@ -1,5 +1,7 @@
 <div align="center">
+  
 ## Hey there! 👋 I'm Lena
+  
 ### 🧠 Data Scientist | NLP Specialist
 
 *Transforming unstructured text into actionable insights*
